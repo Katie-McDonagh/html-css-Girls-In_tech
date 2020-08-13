@@ -36,3 +36,7 @@ footer {
 #heading {
   display: flex;
 }
+
+#intro {
+  margin: 20px;
+}
